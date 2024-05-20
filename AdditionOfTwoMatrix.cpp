@@ -1,4 +1,4 @@
-//Addition of two matrix.
+//Addition of two matrix.  some error   
 
 #include<iostream>
 using namespace std;
